@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Kevin
+  - Walls
+  - Money
+  - Furniture
+  - Mob
+  - Barriers
+  - PowerUps
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Furniture
+  - Money
+  - Player
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - UIMob
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Cursor
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PreBackGround
+    uniqueID: 1050782223
+    locked: 0
+  - name: BackGround
+    uniqueID: 1800898713
+    locked: 0
+  - name: Ground
+    uniqueID: 1095161955
+    locked: 0
+  - name: Entities
+    uniqueID: 1072963289
+    locked: 0
+  - name: Player
+    uniqueID: 3609352251
+    locked: 0
+  - name: Objects
+    uniqueID: 1519321943
+    locked: 0
+  - name: Test
+    uniqueID: 2788464985
+    locked: 0
+  - name: Cursor
+    uniqueID: 2856750633
+    locked: 0
